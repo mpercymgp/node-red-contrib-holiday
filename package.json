@@ -16,6 +16,6 @@
     }
   },
   "dependencies": {
-    "date-holidays": "^1.4.14"
+    "date-holidays": "^3.24.3"
   }
 }
